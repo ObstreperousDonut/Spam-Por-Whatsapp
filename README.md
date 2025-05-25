@@ -22,3 +22,5 @@ Pasos para usarlo:
   Enter 
   
   Listo, se mandarà linea por linea en el chat que escogiste 
+
+  ****No me hago responsable por el uso de este código**** 

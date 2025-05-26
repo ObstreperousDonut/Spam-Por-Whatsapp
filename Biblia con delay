@@ -28,8 +28,6 @@ async function enviarScript(scriptText){
     
     return lines.length;
 }
-
- Ejemplo de uso
 enviarScript(`
 
 Capítulo 1 
